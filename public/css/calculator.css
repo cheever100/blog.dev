@@ -1,0 +1,46 @@
+body {
+	background-color: red;
+	padding: 0px;
+}
+
+input {
+	height: 20px;
+	text-align: right;
+	background-color: azure;
+}	
+
+.container {
+	background-color: cyan;
+	width: 200px;
+	height:250px;
+	padding: 20px;
+	border-radius: 10px
+}
+
+.display-screen {
+	margin-bottom: 10px;
+}
+
+#left-operand {
+	width: 60px;
+}
+
+#operator {
+	width: 30px;
+	margin: 0px 5px;
+}
+
+#right-operand {
+	width: 60px;
+}
+
+.keypad > * {
+	width: 42px;
+	height:42px;
+	margin: 2px 1px;
+	background-color: chartreuse;
+}
+
+.operator {
+	background-color: yellow;
+}

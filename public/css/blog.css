@@ -1,0 +1,44 @@
+body {
+	background-color: #FAFAFA;
+	padding: 10px;
+}
+
+.container {
+	background-color: cyan;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 0.9em;
+	line-height: 1.0em;
+	padding: 20px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+.display-screen {
+	background-color: yellow;
+	text-align: left;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 0.5em;
+	width: 818px;
+	height:230px;
+	padding: 20px;
+	margin-bottom: 10px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.label {
+	background-color: cyan;
+	text-align: center;
+	width: 200px;
+	height:40px;
+	line-height: 1.0em;
+	padding: 10px;
+}
+
+p {
+	font-size: 250%;
+	text-align: justify;
+}
+
+
